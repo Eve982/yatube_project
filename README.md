@@ -68,3 +68,4 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+Данный проект реализован мною в рамках обучения на курсе "Python-разработчик" онлайн-школы Яндекс Практикум.
