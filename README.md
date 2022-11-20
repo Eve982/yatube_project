@@ -8,7 +8,8 @@ Python 3.7
 Django 2.2
 Pytest
 ```
-Этот же проект реализованный мною полностью на Django (frontend+backend) запущен на хостинге PythonAnyWhere по ссылке:
+
+Приложение доступно для ознакомления на хостинге PythonAnyWhere по ссылке:
 
 ```
 http://eve982.pythonanywhere.com/
